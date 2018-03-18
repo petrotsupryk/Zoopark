@@ -1,8 +1,4 @@
 
-public class Dynozavr {
+public class Dynozavr extends Zootvarynka {
 
-	public String Pryvit()
-	{
-		return "Hello";
-	}
 }

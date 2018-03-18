@@ -1,8 +1,4 @@
 
-public class Korova {
+public class Korova extends Zootvarynka {
 
-	public String Pryvit()
-	{
-		return "Hello";
-	}
 }
