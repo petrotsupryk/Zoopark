@@ -8,7 +8,11 @@ public class Zoopark {
 		System.out.printf("Dynozavr say: %s!\n" , d.Pryvit());
 
 		Korova k = new Korova();
-		System.out.printf("Korova say: %s!" , k.Pryvit());
+		System.out.printf("Korova say: %s!\n" , k.Pryvit());
+		
+		Metelyk m = new Metelyk();
+		System.out.printf("Метелик каже: %s ", m.GoodDay());
+	
 	}
 
 }

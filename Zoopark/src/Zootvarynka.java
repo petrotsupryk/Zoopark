@@ -5,4 +5,9 @@ public class Zootvarynka {
 	{
 		return "Hello";
 	}
+	
+	public String GoodDay()
+	{
+		return "Доброго дня!!!";
+	}
 }
